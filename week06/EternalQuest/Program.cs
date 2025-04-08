@@ -1,5 +1,7 @@
 using System;
 
+// I add additional kinds of goals, such as the ability to make progress towards a large goal (such as getting value for working towards running a marathon), or "negative goals" where they lose points for bad habits.
+
 class Program
 {
     static void Main(string[] args)
